@@ -1,7 +1,0 @@
-1) mv file.txt .hidefile.txt (with this command we can change the file_name to the .file_name the files with dot ahead always hide we can see them with ls -a)
-
-2) mkdir -p these/folders/just/for/fun
-
-3) { echo "first message" ; echo "second message"; } >> CLI-challenge.txt
-first message
-second message
