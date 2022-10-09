@@ -8,3 +8,5 @@
 > ### Week_2
 >> #### Favorite CMD commands
 >> https://github.com/Andryushik/favorite-cmd-commands.git
+>> #### Site clone exercise
+>> 
