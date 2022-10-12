@@ -10,4 +10,4 @@
 >> https://github.com/Andryushik/favorite-cmd-commands.git
 >> #### Site clone exercise
 >> [Files are here](/week2//triodos_clone/)
->> Here is copy to open easy https://github.com/Andryushik/triodos_bank-clone.git
+>> Here is [website](https://andryushik.github.io/triodos_bank-clone/) to open easy.
